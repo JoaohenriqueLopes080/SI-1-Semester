@@ -14,7 +14,7 @@ Este repositório reúne **todos os trabalhos e exercícios** realizados durante
 
 ---
 
-<a href="https://www.linkedin.com/in/joão-henrique-lopes-9aa83a19a/" target="_blank">
+<a href="https://github.com/JoaohenriqueLopes080/SI-1-Semester/tree/main/Calculo%20A" target="_blank">
 ### Calculo A
 
   
